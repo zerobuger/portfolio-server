@@ -1,0 +1,15 @@
+{
+  "portfolios": [
+    {
+      "title": "My Stream",
+      "description": "This is a greate stream",
+      "id": 1
+    },
+    {
+      "title": "Portfolio1",
+      "description": "This is my first ever portfolio",
+      "userId": "110745298939769031208",
+      "id": 2
+    }
+  ]
+}
