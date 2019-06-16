@@ -1,0 +1,5 @@
+---
+applications:
+- name: portfolio-server
+  path: .
+  memory: 1024M
