@@ -1,21 +1,52 @@
 {
   "portfolios": [
     {
-      "title": "My Stream",
-      "description": "This is a greate stream",
-      "id": 1
+      "title": "JW Project1",
+      "description": "My first project",
+      "userId": "109998656093863480355",
+      "id": 5
     },
     {
-      "title": "Portfolio1",
-      "description": "This is my first ever portfolio",
+      "title": "Supplier Portal",
+      "description": "Supplier Portal made with SAP Cloud Platform Portal",
+      "type": "SAP; Portal;",
       "userId": "110745298939769031208",
-      "id": 2
+      "id": 6
     },
     {
-      "title": "portfolio2",
-      "description": "description2",
+      "title": "HR Portal",
+      "description": "Extension of SuccessFactors with SAP Cloud Platform Portal",
+      "type": "SAP; Portal; SFSF;",
       "userId": "110745298939769031208",
-      "id": 4
+      "id": 7
+    },
+    {
+      "title": "Dealer Portal",
+      "description": "Dealer Portal build with SAP Cloud Platform Portal",
+      "type": "SAP; Portal; C/4HANA;",
+      "userId": "110745298939769031208",
+      "id": 8
+    },
+    {
+      "title": "E2E Data Analytics",
+      "description": "E2E data Analytics with DataHub and Python",
+      "type": "SAP; DataHub; Python;",
+      "userId": "110745298939769031208",
+      "id": 9
+    },
+    {
+      "title": "Kyma App with Go",
+      "description": "Cloud-Native application development with Kyma and Go",
+      "type": "SAP; Kyma; Go;",
+      "userId": "110745298939769031208",
+      "id": 10
+    },
+    {
+      "title": "Kyma with Docker",
+      "description": "Cloud-Native application development with Kyma and Docker",
+      "type": "SAP; Kyma; Docker;",
+      "userId": "110745298939769031208",
+      "id": 11
     }
   ]
 }
